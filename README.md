@@ -13,7 +13,7 @@ Challenge One: LiterAlura desarrollado con Java 17 y spring 3.3, con el uso de l
 * PostgreSQL Driver
 * Spring Boot DevTools
 * Jackson Databind
-* 
+
 ## Funcionalidades
 ###Menu.
 
@@ -47,4 +47,4 @@ Ingresa el nombre del idioma y se mostraran los libros.
 
 ## Insignia de completado
 
-<image src="/img/Badge-LiterAlura.png" alt="Imagen de salir del programa">
+<image src="/img/BadgeLiterAlura.png" alt="Imagen de salir del programa">
