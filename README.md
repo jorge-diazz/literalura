@@ -38,7 +38,7 @@ Se muestran los autores.
 4.- Buscar auotres activos en determinado año.
  
 Ingresar el año y se mostraran los autores.
-<image src="/img/optionFour.png" alt="Imagen de autores activos">
+<image src="/img/optionfour.png" alt="Imagen de autores activos">
 
 5.- Buscar libros por idioma
 
